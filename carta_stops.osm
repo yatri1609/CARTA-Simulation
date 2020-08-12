@@ -1,0 +1,3615 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='GPSBabel-1.6.0'>
+  <node id='-1' visible='true' lat='35.0507000' lon='-85.3095300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-2' visible='true' lat='35.0442500' lon='-85.3094400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-3' visible='true' lat='35.0423500' lon='-85.3090700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-4' visible='true' lat='35.0409500' lon='-85.3083900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-5' visible='true' lat='35.0363800' lon='-85.3073200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-6' visible='true' lat='35.0346500' lon='-85.3082600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-7' visible='true' lat='35.0327600' lon='-85.3086400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-8' visible='true' lat='35.0317900' lon='-85.3088300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-9' visible='true' lat='35.0308200' lon='-85.3090900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-10' visible='true' lat='35.0275500' lon='-85.3106600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-11' visible='true' lat='35.0267400' lon='-85.3110300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-12' visible='true' lat='35.0259200' lon='-85.3114900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-13' visible='true' lat='35.0193200' lon='-85.3120000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-14' visible='true' lat='35.0175300' lon='-85.3129300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-15' visible='true' lat='35.0167900' lon='-85.3133500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-16' visible='true' lat='35.0150400' lon='-85.3143200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-17' visible='true' lat='35.0158000' lon='-85.3168800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-18' visible='true' lat='35.0161300' lon='-85.3178300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-19' visible='true' lat='35.0165200' lon='-85.3189300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-20' visible='true' lat='35.0171400' lon='-85.3226000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-21' visible='true' lat='35.0137400' lon='-85.3254600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-22' visible='true' lat='35.0129800' lon='-85.3258900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-23' visible='true' lat='35.0114300' lon='-85.3272900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-24' visible='true' lat='35.0106300' lon='-85.3258200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-25' visible='true' lat='35.0081900' lon='-85.3263500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-26' visible='true' lat='35.0081300' lon='-85.3242200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-27' visible='true' lat='35.0081700' lon='-85.3229900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-28' visible='true' lat='35.0086500' lon='-85.3213400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-29' visible='true' lat='35.0105900' lon='-85.3203100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-30' visible='true' lat='35.0100600' lon='-85.3187300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-31' visible='true' lat='35.0095600' lon='-85.3174200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-32' visible='true' lat='35.0084800' lon='-85.3178900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-33' visible='true' lat='35.0076000' lon='-85.3163700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-34' visible='true' lat='35.0072000' lon='-85.3152700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-35' visible='true' lat='35.0067700' lon='-85.3141100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-36' visible='true' lat='35.0063400' lon='-85.3129800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-37' visible='true' lat='35.0059100' lon='-85.3118500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-38' visible='true' lat='35.0052000' lon='-85.3108800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-39' visible='true' lat='35.0041200' lon='-85.3114500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-40' visible='true' lat='35.0022300' lon='-85.3124600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-41' visible='true' lat='35.0001900' lon='-85.3135700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-42' visible='true' lat='34.9976100' lon='-85.3148400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-43' visible='true' lat='34.9945900' lon='-85.3165300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-44' visible='true' lat='34.9934400' lon='-85.3171600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-45' visible='true' lat='34.9926100' lon='-85.3176200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-46' visible='true' lat='34.9917200' lon='-85.3181000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-47' visible='true' lat='34.9907200' lon='-85.3186600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-48' visible='true' lat='34.9889300' lon='-85.3193200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-49' visible='true' lat='34.9886700' lon='-85.3185600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-50' visible='true' lat='34.9891600' lon='-85.3163200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-51' visible='true' lat='34.9899000' lon='-85.3159100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-52' visible='true' lat='34.9904400' lon='-85.3146700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-53' visible='true' lat='34.9898200' lon='-85.3130000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-54' visible='true' lat='34.9893900' lon='-85.3118500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-55' visible='true' lat='34.9887600' lon='-85.3101400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-56' visible='true' lat='34.9901000' lon='-85.3090700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-57' visible='true' lat='34.9899000' lon='-85.3077800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-58' visible='true' lat='34.9892700' lon='-85.3055400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-59' visible='true' lat='34.9895100' lon='-85.3047000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-60' visible='true' lat='34.9903000' lon='-85.3048900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-61' visible='true' lat='34.9913100' lon='-85.3049400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-62' visible='true' lat='34.9982900' lon='-85.3129600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-63' visible='true' lat='34.9979100' lon='-85.3119000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-64' visible='true' lat='34.9972000' lon='-85.3099100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-65' visible='true' lat='34.9957400' lon='-85.3062900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-66' visible='true' lat='34.9933700' lon='-85.3075300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-67' visible='true' lat='34.9922800' lon='-85.3072100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-68' visible='true' lat='34.9918600' lon='-85.3060500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-69' visible='true' lat='34.9912500' lon='-85.3049700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-70' visible='true' lat='34.9890500' lon='-85.3164000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-71' visible='true' lat='34.9882500' lon='-85.3169200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-72' visible='true' lat='34.9887000' lon='-85.3184000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-73' visible='true' lat='34.9890700' lon='-85.3194800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-74' visible='true' lat='34.9904500' lon='-85.3188100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-75' visible='true' lat='34.9925200' lon='-85.3176700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-76' visible='true' lat='34.9936000' lon='-85.3170700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-77' visible='true' lat='34.9987100' lon='-85.3142700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-78' visible='true' lat='34.9999500' lon='-85.3136000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-79' visible='true' lat='35.0020200' lon='-85.3124400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-80' visible='true' lat='35.0038000' lon='-85.3114900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-81' visible='true' lat='35.0053100' lon='-85.3106800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-82' visible='true' lat='35.0058400' lon='-85.3114400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-83' visible='true' lat='35.0062900' lon='-85.3126200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-84' visible='true' lat='35.0067100' lon='-85.3137600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-85' visible='true' lat='35.0069900' lon='-85.3144900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-86' visible='true' lat='35.0076200' lon='-85.3162200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-87' visible='true' lat='35.0081800' lon='-85.3176700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-88' visible='true' lat='35.0092700' lon='-85.3173000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-89' visible='true' lat='35.0105900' lon='-85.3200200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-90' visible='true' lat='35.0093900' lon='-85.3209100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-91' visible='true' lat='35.0083700' lon='-85.3214700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-92' visible='true' lat='35.0082100' lon='-85.3227900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-93' visible='true' lat='35.0081700' lon='-85.3241400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-94' visible='true' lat='35.0081300' lon='-85.3252700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-95' visible='true' lat='35.0107100' lon='-85.3257900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-96' visible='true' lat='35.0110300' lon='-85.3274000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-97' visible='true' lat='35.0174300' lon='-85.3222200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-98' visible='true' lat='35.0172700' lon='-85.3213300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-99' visible='true' lat='35.0168900' lon='-85.3202300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-100' visible='true' lat='35.0164700' lon='-85.3190400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-101' visible='true' lat='35.0161000' lon='-85.3179700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-102' visible='true' lat='35.0157500' lon='-85.3169700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-103' visible='true' lat='35.0149300' lon='-85.3146000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-104' visible='true' lat='35.0172700' lon='-85.3130000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-105' visible='true' lat='35.0188600' lon='-85.3121100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-106' visible='true' lat='35.0199500' lon='-85.3115000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-107' visible='true' lat='35.0240000' lon='-85.3116000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-108' visible='true' lat='35.0254600' lon='-85.3115500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-109' visible='true' lat='35.0264900' lon='-85.3109900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-110' visible='true' lat='35.0322700' lon='-85.3085500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-111' visible='true' lat='35.0341400' lon='-85.3082000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-112' visible='true' lat='35.0350900' lon='-85.3077500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-113' visible='true' lat='35.0358600' lon='-85.3073200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-114' visible='true' lat='35.0374600' lon='-85.3073700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-115' visible='true' lat='35.0386000' lon='-85.3074300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-116' visible='true' lat='35.0402600' lon='-85.3078800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-117' visible='true' lat='35.0416800' lon='-85.3086400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-118' visible='true' lat='34.9895900' lon='-85.3046200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-119' visible='true' lat='34.9921000' lon='-85.3065800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-120' visible='true' lat='34.9925200' lon='-85.3077500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-121' visible='true' lat='34.9931900' lon='-85.3074500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-122' visible='true' lat='34.9956700' lon='-85.3061600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-123' visible='true' lat='34.9978800' lon='-85.3116600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-124' visible='true' lat='34.9982900' lon='-85.3127400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-125' visible='true' lat='34.9987900' lon='-85.3140500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-126' visible='true' lat='35.0065100' lon='-85.3072100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-127' visible='true' lat='34.9898100' lon='-85.3075800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-128' visible='true' lat='34.9902600' lon='-85.3090400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-129' visible='true' lat='34.9889900' lon='-85.3100400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-130' visible='true' lat='34.9895100' lon='-85.3117300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-131' visible='true' lat='34.9901000' lon='-85.3133600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-132' visible='true' lat='34.9905400' lon='-85.3145400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-133' visible='true' lat='34.9907300' lon='-85.3156000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-134' visible='true' lat='35.0434500' lon='-85.3092800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-135' visible='true' lat='35.0450500' lon='-85.3093100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-136' visible='true' lat='35.0460600' lon='-85.3093400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-137' visible='true' lat='35.0507200' lon='-85.3094500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-138' visible='true' lat='35.0521200' lon='-85.3095500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-139' visible='true' lat='35.0521500' lon='-85.3087500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-140' visible='true' lat='35.0521500' lon='-85.3066400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-141' visible='true' lat='35.0521000' lon='-85.3056700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-142' visible='true' lat='35.0518300' lon='-85.3032100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-143' visible='true' lat='35.0513000' lon='-85.3018900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-144' visible='true' lat='35.0507300' lon='-85.3000700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-145' visible='true' lat='35.0500600' lon='-85.2962000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-146' visible='true' lat='35.0496300' lon='-85.2946100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-147' visible='true' lat='35.0483300' lon='-85.2920800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-148' visible='true' lat='35.0478100' lon='-85.2907400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-149' visible='true' lat='35.0469500' lon='-85.2885700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-150' visible='true' lat='35.0463900' lon='-85.2870600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-151' visible='true' lat='35.0458400' lon='-85.2855200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-152' visible='true' lat='35.0439700' lon='-85.2805400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-153' visible='true' lat='35.0431000' lon='-85.2780300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-154' visible='true' lat='35.0426200' lon='-85.2767900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-155' visible='true' lat='35.0414500' lon='-85.2736400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-156' visible='true' lat='35.0414600' lon='-85.2716400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-157' visible='true' lat='35.0457300' lon='-85.2694100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-158' visible='true' lat='35.0466700' lon='-85.2689400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-159' visible='true' lat='35.0482600' lon='-85.2680800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-160' visible='true' lat='35.0503500' lon='-85.2657100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-161' visible='true' lat='35.0520000' lon='-85.2648200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-162' visible='true' lat='35.0536200' lon='-85.2639300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-163' visible='true' lat='35.0553400' lon='-85.2629900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-164' visible='true' lat='35.0564900' lon='-85.2623700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-165' visible='true' lat='35.0641200' lon='-85.2545500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-166' visible='true' lat='35.0660700' lon='-85.2534600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-167' visible='true' lat='35.0673200' lon='-85.2528000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-168' visible='true' lat='35.0684100' lon='-85.2521800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-169' visible='true' lat='35.0694700' lon='-85.2516100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-170' visible='true' lat='35.0705800' lon='-85.2510100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-171' visible='true' lat='35.0717300' lon='-85.2501700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-172' visible='true' lat='35.0510900' lon='-85.2652500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-173' visible='true' lat='35.0503900' lon='-85.2620400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-174' visible='true' lat='35.0518000' lon='-85.2639800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-175' visible='true' lat='35.0931200' lon='-85.1801300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-176' visible='true' lat='35.0916000' lon='-85.1804200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-177' visible='true' lat='35.0882300' lon='-85.1823300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-178' visible='true' lat='35.0864100' lon='-85.1917200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-179' visible='true' lat='35.0810100' lon='-85.2135400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-180' visible='true' lat='35.0795600' lon='-85.2269000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-181' visible='true' lat='35.0740900' lon='-85.2346400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-182' visible='true' lat='35.0734400' lon='-85.2379700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-183' visible='true' lat='35.0703100' lon='-85.2462200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-184' visible='true' lat='35.0708300' lon='-85.2475400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-185' visible='true' lat='35.0713400' lon='-85.2488500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-186' visible='true' lat='35.0708800' lon='-85.2509100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-187' visible='true' lat='35.0698000' lon='-85.2515300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-188' visible='true' lat='35.0686300' lon='-85.2521700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-189' visible='true' lat='35.0675700' lon='-85.2527200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-190' visible='true' lat='35.0664800' lon='-85.2533100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-191' visible='true' lat='35.0644900' lon='-85.2543900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-192' visible='true' lat='35.0579400' lon='-85.2616100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-193' visible='true' lat='35.0567100' lon='-85.2622800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-194' visible='true' lat='35.0556200' lon='-85.2628800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-195' visible='true' lat='35.0539800' lon='-85.2637900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-196' visible='true' lat='35.0523300' lon='-85.2647400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-197' visible='true' lat='35.0515100' lon='-85.2651500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-198' visible='true' lat='35.0507200' lon='-85.2657600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-199' visible='true' lat='35.0498800' lon='-85.2660600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-200' visible='true' lat='35.0494200' lon='-85.2671900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-201' visible='true' lat='35.0486300' lon='-85.2679700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-202' visible='true' lat='35.0473100' lon='-85.2686800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-203' visible='true' lat='35.0461400' lon='-85.2693200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-204' visible='true' lat='35.0448300' lon='-85.2700200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-205' visible='true' lat='35.0433500' lon='-85.2708100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-206' visible='true' lat='35.0413500' lon='-85.2732300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-207' visible='true' lat='35.0426900' lon='-85.2764700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-208' visible='true' lat='35.0434200' lon='-85.2784700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-209' visible='true' lat='35.0437200' lon='-85.2796500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-210' visible='true' lat='35.0442900' lon='-85.2807500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-211' visible='true' lat='35.0458900' lon='-85.2852100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-212' visible='true' lat='35.0463900' lon='-85.2864700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-213' visible='true' lat='35.0468400' lon='-85.2877400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-214' visible='true' lat='35.0478200' lon='-85.2903600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-215' visible='true' lat='35.0482900' lon='-85.2917000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-216' visible='true' lat='35.0487300' lon='-85.2930200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-217' visible='true' lat='35.0495400' lon='-85.2943200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-218' visible='true' lat='35.0499000' lon='-85.2953100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-219' visible='true' lat='35.0512900' lon='-85.2993000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-220' visible='true' lat='35.0519100' lon='-85.3013000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-221' visible='true' lat='35.0525200' lon='-85.3024300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-222' visible='true' lat='35.0535100' lon='-85.3052700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-223' visible='true' lat='35.0535700' lon='-85.3073400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-224' visible='true' lat='35.0535500' lon='-85.3084200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-225' visible='true' lat='35.0719300' lon='-85.2500900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-226' visible='true' lat='35.0714200' lon='-85.2491200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-227' visible='true' lat='35.0708900' lon='-85.2478000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-228' visible='true' lat='35.0704000' lon='-85.2464800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-229' visible='true' lat='35.0693100' lon='-85.2469200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-230' visible='true' lat='35.0685100' lon='-85.2474000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-231' visible='true' lat='35.0672100' lon='-85.2481200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-232' visible='true' lat='35.0667600' lon='-85.2446200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-233' visible='true' lat='35.0671800' lon='-85.2435100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-234' visible='true' lat='35.0695000' lon='-85.2437800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-235' visible='true' lat='35.0704500' lon='-85.2432800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-236' visible='true' lat='35.0724300' lon='-85.2413900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-237' visible='true' lat='35.0734000' lon='-85.2381000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-238' visible='true' lat='35.0740300' lon='-85.2347200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-239' visible='true' lat='35.0745100' lon='-85.2332900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-240' visible='true' lat='35.0757300' lon='-85.2310200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-241' visible='true' lat='35.0807700' lon='-85.2142100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-242' visible='true' lat='35.0845000' lon='-85.2001100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-243' visible='true' lat='35.0846200' lon='-85.1988900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-244' visible='true' lat='35.0851500' lon='-85.1947400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-245' visible='true' lat='35.0856900' lon='-85.1929600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-246' visible='true' lat='35.0861300' lon='-85.1919300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-247' visible='true' lat='35.0919900' lon='-85.1826300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-248' visible='true' lat='35.0521000' lon='-85.2646100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-249' visible='true' lat='35.0408700' lon='-85.2721600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-250' visible='true' lat='35.0399000' lon='-85.2693500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-251' visible='true' lat='35.0390800' lon='-85.2697200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-252' visible='true' lat='35.0383400' lon='-85.2700500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-253' visible='true' lat='35.0374600' lon='-85.2704500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-254' visible='true' lat='35.0365100' lon='-85.2710000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-255' visible='true' lat='35.0358100' lon='-85.2713500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-256' visible='true' lat='35.0341600' lon='-85.2722700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-257' visible='true' lat='35.0333500' lon='-85.2727200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-258' visible='true' lat='35.0318100' lon='-85.2718000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-259' visible='true' lat='35.0312800' lon='-85.2704000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-260' visible='true' lat='35.0309100' lon='-85.2642600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-261' visible='true' lat='35.0323700' lon='-85.2634500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-262' visible='true' lat='35.0336700' lon='-85.2627500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-263' visible='true' lat='35.0350500' lon='-85.2619900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-264' visible='true' lat='35.0358700' lon='-85.2615600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-265' visible='true' lat='35.0367300' lon='-85.2610400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-266' visible='true' lat='35.0386900' lon='-85.2610200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-267' visible='true' lat='35.0395400' lon='-85.2596400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-268' visible='true' lat='35.0425800' lon='-85.2578300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-269' visible='true' lat='35.0451200' lon='-85.2569000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-270' visible='true' lat='35.0462300' lon='-85.2568100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-271' visible='true' lat='35.0482900' lon='-85.2567600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-272' visible='true' lat='35.0493600' lon='-85.2576800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-273' visible='true' lat='35.0505300' lon='-85.2573800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-274' visible='true' lat='35.0515400' lon='-85.2566300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-275' visible='true' lat='35.0551000' lon='-85.2547300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-276' visible='true' lat='35.0562200' lon='-85.2540800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-277' visible='true' lat='35.0577600' lon='-85.2531700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-278' visible='true' lat='35.0593900' lon='-85.2523300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-279' visible='true' lat='35.0608800' lon='-85.2515000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-280' visible='true' lat='35.0627600' lon='-85.2505000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-281' visible='true' lat='35.0640300' lon='-85.2498000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-282' visible='true' lat='35.0652400' lon='-85.2491200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-283' visible='true' lat='35.0794800' lon='-85.2273900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-284' visible='true' lat='35.0350200' lon='-85.2718000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-285' visible='true' lat='35.0670000' lon='-85.2481300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-286' visible='true' lat='35.0684300' lon='-85.2473500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-287' visible='true' lat='35.0691900' lon='-85.2469200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-288' visible='true' lat='35.0702200' lon='-85.2463700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-289' visible='true' lat='35.0561700' lon='-85.2687100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-290' visible='true' lat='35.0551300' lon='-85.2694100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-291' visible='true' lat='35.0547600' lon='-85.2704300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-292' visible='true' lat='35.0523000' lon='-85.2749100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-293' visible='true' lat='35.0490200' lon='-85.2771100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-294' visible='true' lat='35.0464100' lon='-85.2785100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-295' visible='true' lat='35.0656900' lon='-85.2489400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-296' visible='true' lat='35.0640800' lon='-85.2498000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-297' visible='true' lat='35.0630500' lon='-85.2503700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-298' visible='true' lat='35.0611000' lon='-85.2514400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-299' visible='true' lat='35.0595600' lon='-85.2522800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-300' visible='true' lat='35.0581300' lon='-85.2530600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-301' visible='true' lat='35.0563100' lon='-85.2540400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-302' visible='true' lat='35.0553400' lon='-85.2545700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-303' visible='true' lat='35.0542100' lon='-85.2551900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-304' visible='true' lat='35.0530400' lon='-85.2558200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-305' visible='true' lat='35.0520000' lon='-85.2563800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-306' visible='true' lat='35.0437000' lon='-85.2573000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-307' visible='true' lat='35.0428400' lon='-85.2577800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-308' visible='true' lat='35.0399000' lon='-85.2594600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-309' visible='true' lat='35.0387600' lon='-85.2610900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-310' visible='true' lat='35.0371500' lon='-85.2610900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-311' visible='true' lat='35.0362000' lon='-85.2615500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-312' visible='true' lat='35.0353700' lon='-85.2619900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-313' visible='true' lat='35.0345500' lon='-85.2624200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-314' visible='true' lat='35.0336900' lon='-85.2628800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-315' visible='true' lat='35.0328700' lon='-85.2633400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-316' visible='true' lat='35.0293700' lon='-85.2676700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-317' visible='true' lat='35.0298700' lon='-85.2689500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-318' visible='true' lat='35.0304400' lon='-85.2705100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-319' visible='true' lat='35.0310000' lon='-85.2720400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-320' visible='true' lat='35.0315300' lon='-85.2735300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-321' visible='true' lat='35.0318500' lon='-85.2734400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-322' visible='true' lat='35.0330800' lon='-85.2729300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-323' visible='true' lat='35.0339100' lon='-85.2723200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-324' visible='true' lat='35.0355100' lon='-85.2714000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-325' visible='true' lat='35.0371200' lon='-85.2705300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-326' visible='true' lat='35.0380100' lon='-85.2701300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-327' visible='true' lat='35.0391800' lon='-85.2695400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-328' visible='true' lat='35.0403100' lon='-85.2704200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-329' visible='true' lat='35.0407800' lon='-85.2718000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-330' visible='true' lat='35.0441800' lon='-85.2966600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-331' visible='true' lat='35.0449900' lon='-85.2988200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-332' visible='true' lat='35.0458800' lon='-85.3013900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-333' visible='true' lat='35.0464600' lon='-85.3029000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-334' visible='true' lat='35.0468800' lon='-85.3040200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-335' visible='true' lat='35.0476800' lon='-85.3037000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-336' visible='true' lat='35.0488400' lon='-85.3030600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-337' visible='true' lat='35.0494000' lon='-85.3107400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-338' visible='true' lat='35.0481800' lon='-85.3106800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-339' visible='true' lat='35.0469700' lon='-85.3106300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-340' visible='true' lat='35.0454800' lon='-85.3105500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-341' visible='true' lat='35.0431300' lon='-85.3103300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-342' visible='true' lat='35.0368600' lon='-85.3117300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-343' visible='true' lat='35.0360300' lon='-85.3122000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-344' visible='true' lat='35.0336600' lon='-85.3134900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-345' visible='true' lat='35.0286000' lon='-85.3163200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-346' visible='true' lat='35.0277400' lon='-85.3167800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-347' visible='true' lat='35.0258700' lon='-85.3178100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-348' visible='true' lat='35.0249700' lon='-85.3183100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-349' visible='true' lat='35.0210500' lon='-85.3204400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-350' visible='true' lat='35.0199000' lon='-85.3210700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-351' visible='true' lat='35.0191400' lon='-85.3214800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-352' visible='true' lat='35.0097800' lon='-85.3280000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-353' visible='true' lat='35.0067400' lon='-85.3286800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-354' visible='true' lat='35.0049000' lon='-85.3288600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-355' visible='true' lat='35.0041300' lon='-85.3289400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-356' visible='true' lat='35.0019800' lon='-85.3291500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-357' visible='true' lat='35.0004700' lon='-85.3293000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-358' visible='true' lat='34.9986800' lon='-85.3295000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-359' visible='true' lat='34.9968500' lon='-85.3296500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-360' visible='true' lat='34.9957100' lon='-85.3300500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-361' visible='true' lat='34.9947400' lon='-85.3304600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-362' visible='true' lat='34.9925600' lon='-85.3309600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-363' visible='true' lat='34.9898700' lon='-85.3312300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-364' visible='true' lat='34.9884500' lon='-85.3312100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-365' visible='true' lat='34.9884500' lon='-85.3327400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-366' visible='true' lat='34.9870000' lon='-85.3332500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-367' visible='true' lat='34.9868100' lon='-85.3321300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-368' visible='true' lat='35.0201500' lon='-85.3207200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-369' visible='true' lat='35.0245900' lon='-85.3182700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-370' visible='true' lat='35.0256300' lon='-85.3177300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-371' visible='true' lat='35.0274400' lon='-85.3167200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-372' visible='true' lat='35.0323500' lon='-85.3139500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-373' visible='true' lat='35.0341600' lon='-85.3130000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-374' visible='true' lat='35.0349700' lon='-85.3125400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-375' visible='true' lat='35.0358100' lon='-85.3120900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-376' visible='true' lat='35.0366400' lon='-85.3116100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-377' visible='true' lat='35.0374500' lon='-85.3112200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-378' visible='true' lat='35.0396400' lon='-85.3099900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-379' visible='true' lat='35.0416000' lon='-85.3095300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-380' visible='true' lat='35.0426600' lon='-85.3101700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-381' visible='true' lat='35.0437700' lon='-85.3103400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-382' visible='true' lat='35.0455500' lon='-85.3104100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-383' visible='true' lat='35.0472800' lon='-85.3104500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-384' visible='true' lat='35.0484600' lon='-85.3104700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-385' visible='true' lat='35.0499000' lon='-85.3104500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-386' visible='true' lat='35.0469300' lon='-85.3117700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-387' visible='true' lat='35.0470800' lon='-85.3107600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-388' visible='true' lat='35.0440800' lon='-85.3105300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-389' visible='true' lat='35.0423800' lon='-85.3102600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-390' visible='true' lat='35.0418200' lon='-85.3089900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-391' visible='true' lat='35.0504100' lon='-85.3064200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-392' visible='true' lat='35.0509300' lon='-85.3073700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-393' visible='true' lat='35.0509200' lon='-85.3084700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-394' visible='true' lat='35.0522200' lon='-85.3076600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-395' visible='true' lat='35.0560200' lon='-85.2810800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-396' visible='true' lat='35.0928300' lon='-85.2558200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-397' visible='true' lat='35.0939900' lon='-85.2528000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-398' visible='true' lat='35.1288600' lon='-85.2407100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-399' visible='true' lat='35.0638800' lon='-85.2975000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-400' visible='true' lat='35.0643500' lon='-85.2965800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-401' visible='true' lat='35.0649700' lon='-85.2951800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-402' visible='true' lat='35.0656500' lon='-85.2931900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-403' visible='true' lat='35.0661800' lon='-85.2916200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-404' visible='true' lat='35.0666800' lon='-85.2902000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-405' visible='true' lat='35.0683400' lon='-85.2894100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-406' visible='true' lat='35.0693700' lon='-85.2892500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-407' visible='true' lat='35.0709500' lon='-85.2890800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-408' visible='true' lat='35.0729600' lon='-85.2885800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-409' visible='true' lat='35.0751400' lon='-85.2881700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-410' visible='true' lat='35.0766700' lon='-85.2883000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-411' visible='true' lat='35.0781400' lon='-85.2891400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-412' visible='true' lat='35.0795900' lon='-85.2897000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-413' visible='true' lat='35.0805500' lon='-85.2897700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-414' visible='true' lat='35.0818100' lon='-85.2898500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-415' visible='true' lat='35.0867400' lon='-85.2902000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-416' visible='true' lat='35.0879600' lon='-85.2889300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-417' visible='true' lat='35.0902300' lon='-85.2868700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-418' visible='true' lat='35.0914100' lon='-85.2864700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-419' visible='true' lat='35.0941200' lon='-85.2853700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-420' visible='true' lat='35.0961700' lon='-85.2824600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-421' visible='true' lat='35.1001800' lon='-85.2778400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-422' visible='true' lat='35.1009500' lon='-85.2766900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-423' visible='true' lat='35.1019100' lon='-85.2752300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-424' visible='true' lat='35.1041300' lon='-85.2735900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-425' visible='true' lat='35.1063500' lon='-85.2723500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-426' visible='true' lat='35.1081400' lon='-85.2716500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-427' visible='true' lat='35.1099000' lon='-85.2709400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-428' visible='true' lat='35.1115300' lon='-85.2691400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-429' visible='true' lat='35.1121800' lon='-85.2667400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-430' visible='true' lat='35.1130400' lon='-85.2625300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-431' visible='true' lat='35.1133400' lon='-85.2614000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-432' visible='true' lat='35.1143500' lon='-85.2571400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-433' visible='true' lat='35.1147900' lon='-85.2536900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-434' visible='true' lat='35.1152000' lon='-85.2518200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-435' visible='true' lat='35.1171000' lon='-85.2503100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-436' visible='true' lat='35.1183600' lon='-85.2497000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-437' visible='true' lat='35.1213900' lon='-85.2486400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-438' visible='true' lat='35.1250900' lon='-85.2474800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-439' visible='true' lat='35.1284500' lon='-85.2464500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-440' visible='true' lat='35.1322400' lon='-85.2419200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-441' visible='true' lat='35.1309200' lon='-85.2420400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-442' visible='true' lat='35.1282700' lon='-85.2420100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-443' visible='true' lat='35.1384600' lon='-85.2468600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-444' visible='true' lat='35.1386800' lon='-85.2441900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-445' visible='true' lat='35.1358400' lon='-85.2394500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-446' visible='true' lat='35.1325000' lon='-85.2413000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-447' visible='true' lat='35.0469100' lon='-85.3125800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-448' visible='true' lat='35.0509300' lon='-85.3100400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-449' visible='true' lat='35.0515800' lon='-85.3105700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-450' visible='true' lat='35.1283300' lon='-85.2466800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-451' visible='true' lat='35.1271900' lon='-85.2469700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-452' visible='true' lat='35.1232200' lon='-85.2481900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-453' visible='true' lat='35.1219700' lon='-85.2485900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-454' visible='true' lat='35.1184400' lon='-85.2498800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-455' visible='true' lat='35.1149600' lon='-85.2533300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-456' visible='true' lat='35.1148900' lon='-85.2556700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-457' visible='true' lat='35.1147200' lon='-85.2565600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-458' visible='true' lat='35.1135900' lon='-85.2613400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-459' visible='true' lat='35.1133100' lon='-85.2623200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-460' visible='true' lat='35.1131300' lon='-85.2633900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-461' visible='true' lat='35.1123800' lon='-85.2666500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-462' visible='true' lat='35.1101400' lon='-85.2709400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-463' visible='true' lat='35.1093600' lon='-85.2713200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-464' visible='true' lat='35.1084600' lon='-85.2716500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-465' visible='true' lat='35.1068800' lon='-85.2722700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-466' visible='true' lat='35.1044500' lon='-85.2735500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-467' visible='true' lat='35.1022400' lon='-85.2749600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-468' visible='true' lat='35.1015300' lon='-85.2757400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-469' visible='true' lat='35.1007000' lon='-85.2771900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-470' visible='true' lat='35.1001000' lon='-85.2779700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-471' visible='true' lat='35.0997400' lon='-85.2788400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-472' visible='true' lat='35.0963500' lon='-85.2823500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-473' visible='true' lat='35.0941600' lon='-85.2852900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-474' visible='true' lat='35.0915200' lon='-85.2864700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-475' visible='true' lat='35.0904200' lon='-85.2868500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-476' visible='true' lat='35.0882600' lon='-85.2884900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-477' visible='true' lat='35.0868100' lon='-85.2902400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-478' visible='true' lat='35.0818900' lon='-85.2898900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-479' visible='true' lat='35.0796600' lon='-85.2897600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-480' visible='true' lat='35.0781300' lon='-85.2892300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-481' visible='true' lat='35.0767400' lon='-85.2884200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-482' visible='true' lat='35.0745700' lon='-85.2884600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-483' visible='true' lat='35.0702400' lon='-85.2893100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-484' visible='true' lat='35.0686800' lon='-85.2894700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-485' visible='true' lat='35.0667900' lon='-85.2901600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-486' visible='true' lat='35.0662600' lon='-85.2916300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-487' visible='true' lat='35.0657500' lon='-85.2930600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-488' visible='true' lat='35.0639600' lon='-85.2974400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-489' visible='true' lat='35.0630700' lon='-85.2989000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-490' visible='true' lat='35.0460000' lon='-85.2786200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-491' visible='true' lat='35.0522600' lon='-85.2747900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-492' visible='true' lat='35.0545700' lon='-85.2707600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-493' visible='true' lat='35.0553900' lon='-85.2689700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-494' visible='true' lat='35.0541200' lon='-85.2650100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-495' visible='true' lat='35.0537600' lon='-85.2640600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-496' visible='true' lat='35.0526700' lon='-85.2611300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-497' visible='true' lat='35.0520600' lon='-85.2576000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-498' visible='true' lat='35.0480300' lon='-85.2405800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-499' visible='true' lat='35.0469100' lon='-85.2361100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-500' visible='true' lat='35.0461600' lon='-85.2336400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-501' visible='true' lat='35.0450400' lon='-85.2317800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-502' visible='true' lat='35.0437400' lon='-85.2286000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-503' visible='true' lat='35.0429800' lon='-85.2244000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-504' visible='true' lat='35.0434000' lon='-85.2191600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-505' visible='true' lat='35.0507400' lon='-85.2130200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-506' visible='true' lat='35.0597500' lon='-85.2088900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-507' visible='true' lat='35.0597700' lon='-85.2112700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-508' visible='true' lat='35.0597600' lon='-85.2135100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-509' visible='true' lat='35.0604300' lon='-85.2143600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-510' visible='true' lat='35.0597600' lon='-85.2136200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-511' visible='true' lat='35.0595500' lon='-85.2099700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-512' visible='true' lat='35.0596300' lon='-85.2091100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-513' visible='true' lat='35.0601400' lon='-85.2073800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-514' visible='true' lat='35.0565500' lon='-85.2090600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-515' visible='true' lat='35.0429600' lon='-85.2220300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-516' visible='true' lat='35.0431700' lon='-85.2241600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-517' visible='true' lat='35.0438300' lon='-85.2282500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-518' visible='true' lat='35.0451300' lon='-85.2316500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-519' visible='true' lat='35.0461000' lon='-85.2333300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-520' visible='true' lat='35.0470200' lon='-85.2359400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-521' visible='true' lat='35.0479800' lon='-85.2397200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-522' visible='true' lat='35.0480900' lon='-85.2426600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-523' visible='true' lat='35.0520900' lon='-85.2573200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-524' visible='true' lat='35.0523900' lon='-85.2583700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-525' visible='true' lat='35.0526400' lon='-85.2605900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-526' visible='true' lat='35.0536900' lon='-85.2634700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-527' visible='true' lat='35.0540900' lon='-85.2646600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-528' visible='true' lat='35.0548600' lon='-85.2667400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-529' visible='true' lat='35.0558800' lon='-85.2687800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-530' visible='true' lat='35.0391600' lon='-85.1893100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-531' visible='true' lat='35.0408000' lon='-85.1884500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-532' visible='true' lat='35.0427200' lon='-85.1851200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-533' visible='true' lat='35.0480700' lon='-85.1821800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-534' visible='true' lat='35.0503500' lon='-85.1809600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-535' visible='true' lat='35.0537500' lon='-85.1860200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-536' visible='true' lat='35.0547100' lon='-85.1940100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-537' visible='true' lat='35.0553800' lon='-85.1997800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-538' visible='true' lat='35.0664700' lon='-85.2038600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-539' visible='true' lat='35.0479100' lon='-85.2396600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-540' visible='true' lat='35.0441700' lon='-85.2797800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-541' visible='true' lat='35.0535900' lon='-85.3065400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-542' visible='true' lat='35.0625000' lon='-85.3067700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-543' visible='true' lat='35.0683800' lon='-85.3102200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-544' visible='true' lat='35.0691500' lon='-85.3100400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-545' visible='true' lat='35.0702100' lon='-85.3099100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-546' visible='true' lat='35.0717800' lon='-85.3097500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-547' visible='true' lat='35.0735200' lon='-85.3096000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-548' visible='true' lat='35.0744000' lon='-85.3095500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-549' visible='true' lat='35.0744000' lon='-85.3085000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-550' visible='true' lat='35.0718900' lon='-85.3086400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-551' visible='true' lat='35.0703100' lon='-85.3087700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-552' visible='true' lat='35.0684300' lon='-85.3089800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-553' visible='true' lat='35.0669500' lon='-85.3091200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-554' visible='true' lat='35.0669600' lon='-85.3102000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-555' visible='true' lat='35.0659900' lon='-85.3102800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-556' visible='true' lat='35.0644000' lon='-85.3117400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-557' visible='true' lat='35.0636500' lon='-85.3104100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-558' visible='true' lat='35.0625700' lon='-85.3079300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-559' visible='true' lat='35.0623200' lon='-85.3067700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-560' visible='true' lat='35.0434700' lon='-85.3094400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-561' visible='true' lat='35.0369200' lon='-85.3088300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-562' visible='true' lat='35.0373400' lon='-85.3100900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-563' visible='true' lat='35.0384800' lon='-85.3132400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-564' visible='true' lat='35.0388300' lon='-85.3142000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-565' visible='true' lat='35.0391700' lon='-85.3151100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-566' visible='true' lat='35.0403400' lon='-85.3182700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-567' visible='true' lat='35.0408400' lon='-85.3195900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-568' visible='true' lat='35.0420200' lon='-85.3194700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-569' visible='true' lat='35.0425000' lon='-85.3189600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-570' visible='true' lat='35.0434400' lon='-85.3191300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-571' visible='true' lat='35.0454800' lon='-85.3199100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-572' visible='true' lat='35.0468900' lon='-85.3187300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-573' visible='true' lat='35.0484300' lon='-85.3187300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-574' visible='true' lat='35.0469100' lon='-85.3202800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-575' visible='true' lat='35.0450300' lon='-85.3199300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-576' visible='true' lat='35.0433800' lon='-85.3191600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-577' visible='true' lat='35.0434400' lon='-85.3184200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-578' visible='true' lat='35.0448400' lon='-85.3174200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-579' visible='true' lat='35.0436100' lon='-85.3159500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-580' visible='true' lat='35.0432700' lon='-85.3156000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-581' visible='true' lat='35.0424600' lon='-85.3135400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-582' visible='true' lat='35.0402200' lon='-85.3146800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-583' visible='true' lat='35.0387200' lon='-85.3144000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-584' visible='true' lat='35.0377100' lon='-85.3117300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-585' visible='true' lat='35.0372200' lon='-85.3104100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-586' visible='true' lat='35.0368400' lon='-85.3093900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-587' visible='true' lat='35.0365200' lon='-85.3084200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-588' visible='true' lat='35.0394600' lon='-85.3075000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-589' visible='true' lat='35.0484200' lon='-85.3102500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-590' visible='true' lat='35.0699200' lon='-85.2702700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-591' visible='true' lat='35.0709100' lon='-85.2697600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-592' visible='true' lat='35.0730600' lon='-85.2685900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-593' visible='true' lat='35.0774700' lon='-85.2661600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-594' visible='true' lat='35.0821200' lon='-85.2635800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-595' visible='true' lat='35.0997600' lon='-85.2382900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-596' visible='true' lat='35.0966100' lon='-85.2425800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-597' visible='true' lat='35.0850300' lon='-85.2623600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-598' visible='true' lat='35.0584900' lon='-85.2760100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-599' visible='true' lat='35.0515600' lon='-85.2994200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-600' visible='true' lat='35.0378800' lon='-85.3068900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-601' visible='true' lat='35.0525100' lon='-85.3106100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-602' visible='true' lat='35.0533400' lon='-85.3109000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-603' visible='true' lat='35.0507300' lon='-85.3107600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-604' visible='true' lat='35.0450300' lon='-85.3103300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-605' visible='true' lat='35.0438900' lon='-85.3118800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-606' visible='true' lat='35.0395300' lon='-85.3076600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-607' visible='true' lat='35.0543600' lon='-85.3096400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-608' visible='true' lat='35.0616500' lon='-85.3047300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-609' visible='true' lat='35.0549000' lon='-85.3097400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-610' visible='true' lat='35.0421900' lon='-85.3084200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-611' visible='true' lat='35.0426500' lon='-85.3066900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-612' visible='true' lat='35.0436300' lon='-85.3062100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-613' visible='true' lat='35.0443300' lon='-85.3057600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-614' visible='true' lat='35.0437700' lon='-85.3031400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-615' visible='true' lat='35.0432700' lon='-85.3018900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-616' visible='true' lat='35.0423000' lon='-85.2990700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-617' visible='true' lat='35.0417900' lon='-85.2973400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-618' visible='true' lat='35.0413100' lon='-85.2963600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-619' visible='true' lat='35.0408200' lon='-85.2951000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-620' visible='true' lat='35.0403900' lon='-85.2939700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-621' visible='true' lat='35.0398200' lon='-85.2924100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-622' visible='true' lat='35.0375100' lon='-85.2864700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-623' visible='true' lat='35.0371200' lon='-85.2856700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-624' visible='true' lat='35.0365700' lon='-85.2845500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-625' visible='true' lat='35.0359700' lon='-85.2830200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-626' visible='true' lat='35.0355200' lon='-85.2818000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-627' visible='true' lat='35.0350000' lon='-85.2804100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-628' visible='true' lat='35.0344900' lon='-85.2790300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-629' visible='true' lat='35.0340000' lon='-85.2776900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-630' visible='true' lat='35.0334600' lon='-85.2762500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-631' visible='true' lat='35.0328000' lon='-85.2744200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-632' visible='true' lat='35.0324300' lon='-85.2734400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-633' visible='true' lat='35.0307100' lon='-85.2689100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-634' visible='true' lat='35.0309400' lon='-85.2669500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-635' visible='true' lat='35.0316100' lon='-85.2660000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-636' visible='true' lat='35.0307300' lon='-85.2608800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-637' visible='true' lat='35.0275700' lon='-85.2550500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-638' visible='true' lat='35.0271900' lon='-85.2541600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-639' visible='true' lat='35.0260800' lon='-85.2515800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-640' visible='true' lat='35.0256400' lon='-85.2488000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-641' visible='true' lat='35.0248800' lon='-85.2478100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-642' visible='true' lat='35.0239700' lon='-85.2460800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-643' visible='true' lat='35.0232500' lon='-85.2445200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-644' visible='true' lat='35.0226000' lon='-85.2428700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-645' visible='true' lat='35.0217100' lon='-85.2415700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-646' visible='true' lat='35.0202600' lon='-85.2405200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-647' visible='true' lat='35.0189600' lon='-85.2400100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-648' visible='true' lat='35.0173100' lon='-85.2380700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-649' visible='true' lat='35.0167700' lon='-85.2371300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-650' visible='true' lat='35.0155400' lon='-85.2347000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-651' visible='true' lat='35.0152100' lon='-85.2338400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-652' visible='true' lat='35.0146700' lon='-85.2324900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-653' visible='true' lat='35.0140700' lon='-85.2311600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-654' visible='true' lat='35.0135000' lon='-85.2297700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-655' visible='true' lat='35.0129600' lon='-85.2285200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-656' visible='true' lat='35.0124200' lon='-85.2273300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-657' visible='true' lat='35.0119900' lon='-85.2261500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-658' visible='true' lat='35.0115500' lon='-85.2250200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-659' visible='true' lat='35.0107800' lon='-85.2229700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-660' visible='true' lat='35.0105000' lon='-85.2222200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-661' visible='true' lat='35.0101700' lon='-85.2213500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-662' visible='true' lat='35.0102300' lon='-85.2186000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-663' visible='true' lat='35.0106300' lon='-85.2177600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-664' visible='true' lat='35.0114100' lon='-85.2150500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-665' visible='true' lat='35.0085200' lon='-85.2137000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-666' visible='true' lat='35.0062900' lon='-85.2101300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-667' visible='true' lat='35.0091200' lon='-85.2069200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-668' visible='true' lat='35.0103000' lon='-85.2078100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-669' visible='true' lat='35.0138100' lon='-85.2108700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-670' visible='true' lat='35.0159600' lon='-85.2086200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-671' visible='true' lat='35.0168200' lon='-85.2072200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-672' visible='true' lat='35.0178300' lon='-85.2056000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-673' visible='true' lat='35.0197900' lon='-85.2024500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-674' visible='true' lat='35.0217200' lon='-85.1993500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-675' visible='true' lat='35.0228300' lon='-85.1976000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-676' visible='true' lat='35.0236300' lon='-85.1963300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-677' visible='true' lat='35.0248600' lon='-85.1943300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-678' visible='true' lat='35.0279300' lon='-85.1892400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-679' visible='true' lat='35.0291500' lon='-85.1872100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-680' visible='true' lat='35.0303500' lon='-85.1856000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-681' visible='true' lat='35.0335000' lon='-85.1803200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-682' visible='true' lat='35.0345600' lon='-85.1786700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-683' visible='true' lat='35.0375800' lon='-85.1740800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-684' visible='true' lat='35.0392800' lon='-85.1713600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-685' visible='true' lat='35.0403700' lon='-85.1696300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-686' visible='true' lat='35.0417500' lon='-85.1674200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-687' visible='true' lat='35.0423100' lon='-85.1665300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-688' visible='true' lat='35.0431400' lon='-85.1651900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-689' visible='true' lat='35.0437700' lon='-85.1642200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-690' visible='true' lat='35.0446400' lon='-85.1627900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-691' visible='true' lat='35.0441000' lon='-85.1603500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-692' visible='true' lat='35.0436600' lon='-85.1591100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-693' visible='true' lat='35.0407900' lon='-85.1550800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-694' visible='true' lat='35.0397400' lon='-85.1557200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-695' visible='true' lat='35.0333400' lon='-85.1597900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-696' visible='true' lat='35.0178700' lon='-85.1731900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-697' visible='true' lat='35.0182200' lon='-85.1719000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-698' visible='true' lat='35.0178400' lon='-85.1687100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-699' visible='true' lat='35.0163400' lon='-85.1653000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-700' visible='true' lat='35.0153000' lon='-85.1637600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-701' visible='true' lat='35.0138600' lon='-85.1614600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-702' visible='true' lat='35.0131100' lon='-85.1598500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-703' visible='true' lat='35.0126400' lon='-85.1588500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-704' visible='true' lat='35.0106300' lon='-85.1550400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-705' visible='true' lat='35.0082900' lon='-85.1534800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-706' visible='true' lat='35.0122300' lon='-85.1510500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-707' visible='true' lat='35.0147700' lon='-85.1497300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-708' visible='true' lat='35.0156600' lon='-85.1493000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-709' visible='true' lat='35.0165600' lon='-85.1489200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-710' visible='true' lat='35.0186700' lon='-85.1480000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-711' visible='true' lat='35.0225600' lon='-85.1463100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-712' visible='true' lat='35.0231600' lon='-85.1473100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-713' visible='true' lat='35.0239500' lon='-85.1494700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-714' visible='true' lat='35.0245900' lon='-85.1512100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-715' visible='true' lat='35.0268300' lon='-85.1571700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-716' visible='true' lat='35.0300300' lon='-85.1555900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-717' visible='true' lat='35.0318900' lon='-85.1594100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-718' visible='true' lat='35.0328700' lon='-85.1541000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-719' visible='true' lat='35.0350700' lon='-85.1528700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-720' visible='true' lat='35.0367300' lon='-85.1519500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-721' visible='true' lat='35.0433700' lon='-85.1580100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-722' visible='true' lat='35.0439200' lon='-85.1593100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-723' visible='true' lat='35.0444500' lon='-85.1633700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-724' visible='true' lat='35.0432500' lon='-85.1652700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-725' visible='true' lat='35.0423500' lon='-85.1664300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-726' visible='true' lat='35.0410100' lon='-85.1687500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-727' visible='true' lat='35.0393600' lon='-85.1714600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-728' visible='true' lat='35.0376800' lon='-85.1741400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-729' visible='true' lat='35.0348700' lon='-85.1786200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-730' visible='true' lat='35.0306400' lon='-85.1854000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-731' visible='true' lat='35.0295300' lon='-85.1871800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-732' visible='true' lat='35.0251200' lon='-85.1941700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-733' visible='true' lat='35.0226400' lon='-85.1980800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-734' visible='true' lat='35.0208500' lon='-85.2010000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-735' visible='true' lat='35.0199300' lon='-85.2024700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-736' visible='true' lat='35.0157200' lon='-85.2091900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-737' visible='true' lat='35.0132600' lon='-85.2103200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-738' visible='true' lat='35.0101900' lon='-85.2079200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-739' visible='true' lat='35.0083700' lon='-85.2068200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-740' visible='true' lat='35.0062400' lon='-85.2102900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-741' visible='true' lat='35.0083900' lon='-85.2120800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-742' visible='true' lat='35.0106300' lon='-85.2177400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-743' visible='true' lat='35.0102700' lon='-85.2190000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-744' visible='true' lat='35.0101100' lon='-85.2207800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-745' visible='true' lat='35.0108600' lon='-85.2227800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-746' visible='true' lat='35.0115900' lon='-85.2247200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-747' visible='true' lat='35.0120600' lon='-85.2259100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-748' visible='true' lat='35.0135400' lon='-85.2295200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-749' visible='true' lat='35.0141100' lon='-85.2308700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-750' visible='true' lat='35.0146000' lon='-85.2320600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-751' visible='true' lat='35.0152800' lon='-85.2337600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-752' visible='true' lat='35.0167900' lon='-85.2368500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-753' visible='true' lat='35.0178200' lon='-85.2384500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-754' visible='true' lat='35.0201900' lon='-85.2402900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-755' visible='true' lat='35.0216300' lon='-85.2413300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-756' visible='true' lat='35.0225200' lon='-85.2424100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-757' visible='true' lat='35.0231800' lon='-85.2441100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-758' visible='true' lat='35.0236300' lon='-85.2451700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-759' visible='true' lat='35.0243500' lon='-85.2468100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-760' visible='true' lat='35.0257200' lon='-85.2485300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-761' visible='true' lat='35.0269900' lon='-85.2534400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-762' visible='true' lat='35.0276300' lon='-85.2547300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-763' visible='true' lat='35.0311400' lon='-85.2616300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-764' visible='true' lat='35.0319900' lon='-85.2641800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-765' visible='true' lat='35.0324300' lon='-85.2653600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-766' visible='true' lat='35.0328900' lon='-85.2665700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-767' visible='true' lat='35.0336000' lon='-85.2684600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-768' visible='true' lat='35.0343500' lon='-85.2704500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-769' visible='true' lat='35.0347900' lon='-85.2716500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-770' visible='true' lat='35.0353500' lon='-85.2731200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-771' visible='true' lat='35.0358300' lon='-85.2744400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-772' visible='true' lat='35.0363900' lon='-85.2759600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-773' visible='true' lat='35.0369000' lon='-85.2773500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-774' visible='true' lat='35.0374100' lon='-85.2787100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-775' visible='true' lat='35.0379300' lon='-85.2801100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-776' visible='true' lat='35.0383700' lon='-85.2812900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-777' visible='true' lat='35.0388500' lon='-85.2826100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-778' visible='true' lat='35.0396300' lon='-85.2846200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-779' visible='true' lat='35.0413900' lon='-85.2895200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-780' visible='true' lat='35.0420700' lon='-85.2913500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-781' visible='true' lat='35.0425400' lon='-85.2925900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-782' visible='true' lat='35.0437300' lon='-85.2956900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-783' visible='true' lat='35.0474100' lon='-85.3054200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-784' visible='true' lat='35.0484500' lon='-85.3072700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-785' visible='true' lat='35.0483400' lon='-85.3093100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-786' visible='true' lat='35.0439900' lon='-85.1640800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-787' visible='true' lat='35.0303800' lon='-85.1555500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-788' visible='true' lat='35.0287300' lon='-85.1564700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-789' visible='true' lat='35.0266100' lon='-85.1567500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-790' visible='true' lat='35.0231800' lon='-85.1474700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-791' visible='true' lat='35.0227400' lon='-85.1464400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-792' visible='true' lat='35.0147000' lon='-85.1496600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-793' visible='true' lat='35.0124200' lon='-85.1506500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-794' visible='true' lat='35.0108900' lon='-85.1552600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-795' visible='true' lat='35.0121500' lon='-85.1576000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-796' visible='true' lat='35.0130300' lon='-85.1595000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-797' visible='true' lat='35.0137500' lon='-85.1610800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-798' visible='true' lat='35.0151200' lon='-85.1634000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-799' visible='true' lat='35.0159600' lon='-85.1646100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-800' visible='true' lat='35.0169100' lon='-85.1664600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-801' visible='true' lat='35.0177300' lon='-85.1684000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-802' visible='true' lat='35.0458100' lon='-85.3049500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-803' visible='true' lat='35.0466400' lon='-85.3042700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-804' visible='true' lat='35.0511300' lon='-85.3018100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-805' visible='true' lat='35.0442500' lon='-85.2795200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-806' visible='true' lat='35.0486300' lon='-85.2771400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-807' visible='true' lat='35.0317600' lon='-85.2422000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-808' visible='true' lat='35.0324000' lon='-85.2418800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-809' visible='true' lat='35.0333000' lon='-85.2414700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-810' visible='true' lat='35.0366300' lon='-85.2410100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-811' visible='true' lat='35.0378500' lon='-85.2402600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-812' visible='true' lat='35.0391300' lon='-85.2397400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-813' visible='true' lat='35.0412600' lon='-85.2390100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-814' visible='true' lat='35.0423200' lon='-85.2386100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-815' visible='true' lat='35.0434000' lon='-85.2380200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-816' visible='true' lat='35.0459000' lon='-85.2376200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-817' visible='true' lat='35.0496400' lon='-85.2431400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-818' visible='true' lat='35.0511000' lon='-85.2424600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-819' visible='true' lat='35.0553300' lon='-85.2430600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-820' visible='true' lat='35.0551000' lon='-85.2415200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-821' visible='true' lat='35.0543800' lon='-85.2408000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-822' visible='true' lat='35.0655100' lon='-85.2411700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-823' visible='true' lat='35.0671200' lon='-85.2432700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-824' visible='true' lat='35.0692900' lon='-85.2345900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-825' visible='true' lat='35.0682200' lon='-85.2310400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-826' visible='true' lat='35.0671600' lon='-85.2283600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-827' visible='true' lat='35.0648000' lon='-85.2281000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-828' visible='true' lat='35.0628500' lon='-85.2284500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-829' visible='true' lat='35.0604800' lon='-85.2296500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-830' visible='true' lat='35.0574000' lon='-85.2313600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-831' visible='true' lat='35.0520400' lon='-85.2347600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-832' visible='true' lat='35.0498500' lon='-85.2359900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-833' visible='true' lat='35.0487200' lon='-85.2365900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-834' visible='true' lat='35.0467500' lon='-85.2374800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-835' visible='true' lat='35.0459600' lon='-85.2377200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-836' visible='true' lat='35.0445900' lon='-85.2378200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-837' visible='true' lat='35.0435400' lon='-85.2380700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-838' visible='true' lat='35.0425400' lon='-85.2386300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-839' visible='true' lat='35.0413700' lon='-85.2391200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-840' visible='true' lat='35.0393300' lon='-85.2400600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-841' visible='true' lat='35.0383900' lon='-85.2401200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-842' visible='true' lat='35.0368600' lon='-85.2408800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-843' visible='true' lat='35.0353300' lon='-85.2419000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-844' visible='true' lat='35.0334500' lon='-85.2414700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-845' visible='true' lat='35.0319300' lon='-85.2422300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-846' visible='true' lat='35.0304900' lon='-85.2430100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-847' visible='true' lat='35.0268300' lon='-85.2450000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-848' visible='true' lat='35.0355100' lon='-85.3055300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-849' visible='true' lat='35.0348300' lon='-85.3040500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-850' visible='true' lat='35.0343200' lon='-85.3027100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-851' visible='true' lat='35.0338400' lon='-85.3014600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-852' visible='true' lat='35.0333800' lon='-85.3002000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-853' visible='true' lat='35.0328800' lon='-85.2988800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-854' visible='true' lat='35.0320700' lon='-85.2968300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-855' visible='true' lat='35.0314600' lon='-85.2951000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-856' visible='true' lat='35.0308600' lon='-85.2934800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-857' visible='true' lat='35.0296500' lon='-85.2901600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-858' visible='true' lat='35.0289900' lon='-85.2883900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-859' visible='true' lat='35.0285100' lon='-85.2874200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-860' visible='true' lat='35.0278700' lon='-85.2853200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-861' visible='true' lat='35.0274900' lon='-85.2842300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-862' visible='true' lat='35.0261200' lon='-85.2801900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-863' visible='true' lat='35.0254600' lon='-85.2783500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-864' visible='true' lat='35.0251000' lon='-85.2773900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-865' visible='true' lat='35.0247200' lon='-85.2763400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-866' visible='true' lat='35.0239300' lon='-85.2742500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-867' visible='true' lat='35.0234100' lon='-85.2728500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-868' visible='true' lat='35.0229900' lon='-85.2717200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-869' visible='true' lat='35.0222800' lon='-85.2698000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-870' visible='true' lat='35.0208900' lon='-85.2705600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-871' visible='true' lat='35.0200000' lon='-85.2711800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-872' visible='true' lat='35.0193300' lon='-85.2716400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-873' visible='true' lat='35.0181600' lon='-85.2722700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-874' visible='true' lat='35.0169200' lon='-85.2729400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-875' visible='true' lat='35.0159900' lon='-85.2735900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-876' visible='true' lat='35.0162500' lon='-85.2747100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-877' visible='true' lat='35.0176600' lon='-85.2799500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-878' visible='true' lat='35.0145100' lon='-85.2815700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-879' visible='true' lat='35.0137700' lon='-85.2819700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-880' visible='true' lat='35.0130300' lon='-85.2823700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-881' visible='true' lat='35.0123000' lon='-85.2827800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-882' visible='true' lat='35.0111000' lon='-85.2824200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-883' visible='true' lat='35.0106700' lon='-85.2813000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-884' visible='true' lat='35.0091300' lon='-85.2772200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-885' visible='true' lat='35.0081000' lon='-85.2776200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-886' visible='true' lat='35.0069300' lon='-85.2781900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-887' visible='true' lat='35.0058300' lon='-85.2789200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-888' visible='true' lat='35.0047100' lon='-85.2795500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-889' visible='true' lat='35.0035000' lon='-85.2802200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-890' visible='true' lat='35.0024800' lon='-85.2807800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-891' visible='true' lat='35.0006400' lon='-85.2818000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-892' visible='true' lat='34.9994400' lon='-85.2824600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-893' visible='true' lat='34.9983500' lon='-85.2827300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-894' visible='true' lat='34.9955100' lon='-85.2842800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-895' visible='true' lat='34.9942700' lon='-85.2849300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-896' visible='true' lat='34.9929300' lon='-85.2856700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-897' visible='true' lat='34.9915900' lon='-85.2863600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-898' visible='true' lat='34.9869200' lon='-85.2884400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-899' visible='true' lat='35.0258500' lon='-85.2794300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-900' visible='true' lat='34.9888300' lon='-85.2877900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-901' visible='true' lat='34.9896900' lon='-85.2873300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-902' visible='true' lat='34.9903900' lon='-85.2866100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-903' visible='true' lat='34.9912600' lon='-85.2864700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-904' visible='true' lat='34.9926300' lon='-85.2857200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-905' visible='true' lat='34.9939800' lon='-85.2850200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-906' visible='true' lat='34.9972400' lon='-85.2832400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-907' visible='true' lat='34.9980300' lon='-85.2828300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-908' visible='true' lat='34.9986700' lon='-85.2824600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-909' visible='true' lat='35.0002200' lon='-85.2819700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-910' visible='true' lat='35.0021200' lon='-85.2809200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-911' visible='true' lat='35.0032700' lon='-85.2802900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-912' visible='true' lat='35.0044000' lon='-85.2796700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-913' visible='true' lat='35.0054900' lon='-85.2790800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-914' visible='true' lat='35.0066100' lon='-85.2784700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-915' visible='true' lat='35.0077500' lon='-85.2778400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-916' visible='true' lat='35.0112400' lon='-85.2831500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-917' visible='true' lat='35.0119300' lon='-85.2828900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-918' visible='true' lat='35.0127400' lon='-85.2824500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-919' visible='true' lat='35.0135400' lon='-85.2820200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-920' visible='true' lat='35.0141700' lon='-85.2816800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-921' visible='true' lat='35.0151600' lon='-85.2811600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-922' visible='true' lat='35.0189900' lon='-85.2716400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-923' visible='true' lat='35.0206000' lon='-85.2705400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-924' visible='true' lat='35.0226500' lon='-85.2710200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-925' visible='true' lat='35.0233900' lon='-85.2729700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-926' visible='true' lat='35.0239100' lon='-85.2743300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-927' visible='true' lat='35.0244300' lon='-85.2756900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-928' visible='true' lat='35.0249400' lon='-85.2770100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-929' visible='true' lat='35.0259700' lon='-85.2798900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-930' visible='true' lat='35.0265000' lon='-85.2813300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-931' visible='true' lat='35.0269700' lon='-85.2826500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-932' visible='true' lat='35.0274800' lon='-85.2840800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-933' visible='true' lat='35.0279600' lon='-85.2854200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-934' visible='true' lat='35.0296100' lon='-85.2899200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-935' visible='true' lat='35.0301800' lon='-85.2914600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-936' visible='true' lat='35.0306000' lon='-85.2926400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-937' visible='true' lat='35.0312300' lon='-85.2943400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-938' visible='true' lat='35.0319000' lon='-85.2961000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-939' visible='true' lat='35.0322500' lon='-85.2969900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-940' visible='true' lat='35.0329200' lon='-85.2988000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-941' visible='true' lat='35.0334700' lon='-85.3002500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-942' visible='true' lat='35.0342900' lon='-85.3024100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-943' visible='true' lat='35.0347700' lon='-85.3036700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-944' visible='true' lat='35.0353500' lon='-85.3051800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-945' visible='true' lat='35.0438700' lon='-85.3089900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-946' visible='true' lat='35.0435000' lon='-85.3080400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-947' visible='true' lat='35.0431900' lon='-85.3073200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-948' visible='true' lat='35.0429800' lon='-85.3067700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-949' visible='true' lat='35.0426900' lon='-85.3059700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-950' visible='true' lat='35.0423500' lon='-85.3051400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-951' visible='true' lat='35.0420400' lon='-85.3043500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-952' visible='true' lat='35.0408800' lon='-85.3013800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-953' visible='true' lat='35.0401000' lon='-85.2995000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-954' visible='true' lat='35.0393400' lon='-85.2976700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-955' visible='true' lat='35.0387800' lon='-85.2962000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-956' visible='true' lat='35.0382600' lon='-85.2948000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-957' visible='true' lat='35.0377900' lon='-85.2935400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-958' visible='true' lat='35.0340900' lon='-85.2953700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-959' visible='true' lat='35.0312500' lon='-85.2968200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-960' visible='true' lat='35.0303900' lon='-85.2972500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-961' visible='true' lat='35.0274400' lon='-85.2988500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-962' visible='true' lat='35.0234100' lon='-85.2951300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-963' visible='true' lat='35.0229300' lon='-85.2938600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-964' visible='true' lat='35.0225100' lon='-85.2927000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-965' visible='true' lat='35.0222300' lon='-85.2919200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-966' visible='true' lat='35.0215100' lon='-85.2898700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-967' visible='true' lat='35.0210100' lon='-85.2884600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-968' visible='true' lat='35.0205000' lon='-85.2869900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-969' visible='true' lat='35.0196900' lon='-85.2847000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-970' visible='true' lat='35.0179500' lon='-85.2799500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-971' visible='true' lat='35.0154800' lon='-85.2810600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-972' visible='true' lat='35.0114400' lon='-85.2831800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-973' visible='true' lat='35.0097900' lon='-85.2840500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-974' visible='true' lat='35.0089300' lon='-85.2845100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-975' visible='true' lat='35.0082400' lon='-85.2848800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-976' visible='true' lat='35.0066100' lon='-85.2861500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-977' visible='true' lat='35.0056500' lon='-85.2864400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-978' visible='true' lat='35.0048600' lon='-85.2868500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-979' visible='true' lat='35.0034800' lon='-85.2874100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-980' visible='true' lat='35.0022500' lon='-85.2880400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-981' visible='true' lat='35.0009100' lon='-85.2887400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-982' visible='true' lat='35.0010800' lon='-85.2897000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-983' visible='true' lat='35.0015000' lon='-85.2908100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-984' visible='true' lat='35.0002700' lon='-85.2921000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-985' visible='true' lat='34.9990000' lon='-85.2918300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-986' visible='true' lat='34.9977700' lon='-85.2915900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-987' visible='true' lat='34.9965300' lon='-85.2913300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-988' visible='true' lat='34.9953100' lon='-85.2910800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-989' visible='true' lat='34.9932400' lon='-85.2906800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-990' visible='true' lat='34.9915000' lon='-85.2903300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-991' visible='true' lat='34.9900800' lon='-85.2900400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-992' visible='true' lat='34.9878600' lon='-85.2888100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-993' visible='true' lat='34.9860500' lon='-85.2881700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-994' visible='true' lat='34.9884900' lon='-85.2890300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-995' visible='true' lat='34.9893500' lon='-85.2895700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-996' visible='true' lat='34.9904600' lon='-85.2899000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-997' visible='true' lat='34.9913700' lon='-85.2900800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-998' visible='true' lat='34.9922400' lon='-85.2902800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-999' visible='true' lat='34.9930000' lon='-85.2904300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1000' visible='true' lat='34.9944300' lon='-85.2907100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1001' visible='true' lat='34.9973600' lon='-85.2912800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1002' visible='true' lat='34.9986200' lon='-85.2915200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1003' visible='true' lat='35.0001300' lon='-85.2908400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1004' visible='true' lat='35.0008800' lon='-85.2898500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1005' visible='true' lat='35.0007600' lon='-85.2885800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1006' visible='true' lat='35.0018900' lon='-85.2879800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1007' visible='true' lat='35.0030700' lon='-85.2873600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1008' visible='true' lat='35.0043600' lon='-85.2866800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1009' visible='true' lat='35.0054100' lon='-85.2862100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1010' visible='true' lat='35.0065800' lon='-85.2856300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1011' visible='true' lat='35.0077300' lon='-85.2850200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1012' visible='true' lat='35.0087300' lon='-85.2845100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1013' visible='true' lat='35.0096400' lon='-85.2840500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1014' visible='true' lat='35.0111500' lon='-85.2832700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1015' visible='true' lat='35.0182900' lon='-85.2805900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1016' visible='true' lat='35.0194000' lon='-85.2835400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1017' visible='true' lat='35.0197100' lon='-85.2844000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1018' visible='true' lat='35.0215200' lon='-85.2895400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1019' visible='true' lat='35.0218700' lon='-85.2905700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1020' visible='true' lat='35.0222100' lon='-85.2915400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1021' visible='true' lat='35.0230200' lon='-85.2936800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1022' visible='true' lat='35.0234700' lon='-85.2948900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1023' visible='true' lat='35.0240900' lon='-85.2965100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1024' visible='true' lat='35.0245200' lon='-85.2976700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1025' visible='true' lat='35.0252800' lon='-85.2984700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1026' visible='true' lat='35.0260700' lon='-85.2990900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1027' visible='true' lat='35.0273300' lon='-85.2987900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1028' visible='true' lat='35.0300400' lon='-85.2972900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1029' visible='true' lat='35.0316500' lon='-85.2964000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1030' visible='true' lat='35.0337600' lon='-85.2953100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1031' visible='true' lat='35.0375800' lon='-85.2932900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1032' visible='true' lat='35.0392600' lon='-85.2941300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1033' visible='true' lat='35.0397200' lon='-85.2953100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1034' visible='true' lat='35.0402200' lon='-85.2966600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1035' visible='true' lat='35.0411500' lon='-85.2992600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1036' visible='true' lat='35.0416800' lon='-85.3007600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1037' visible='true' lat='35.0421500' lon='-85.3020100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1038' visible='true' lat='35.0426300' lon='-85.3032900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1039' visible='true' lat='35.0433800' lon='-85.3053000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1040' visible='true' lat='35.0436800' lon='-85.3060200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1041' visible='true' lat='35.0441700' lon='-85.3073400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1042' visible='true' lat='35.0446700' lon='-85.3087100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1043' visible='true' lat='35.0333800' lon='-85.1597900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1044' visible='true' lat='35.0083500' lon='-85.2138100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1045' visible='true' lat='35.0560600' lon='-85.2687300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1046' visible='true' lat='35.0526600' lon='-85.3097200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1047' visible='true' lat='35.0453800' lon='-85.3094500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1048' visible='true' lat='35.0459800' lon='-85.3095200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1049' visible='true' lat='35.0153000' lon='-85.3240000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1050' visible='true' lat='35.0371100' lon='-85.3074300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1051' visible='true' lat='35.0152100' lon='-85.3238500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1052' visible='true' lat='35.0497700' lon='-85.2953400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1053' visible='true' lat='35.0473400' lon='-85.3094000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1054' visible='true' lat='35.0446400' lon='-85.2699500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1055' visible='true' lat='35.0429500' lon='-85.2708800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1056' visible='true' lat='35.0487500' lon='-85.2933000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1057' visible='true' lat='35.0849800' lon='-85.1969500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1058' visible='true' lat='35.0838900' lon='-85.2032000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1059' visible='true' lat='35.0403300' lon='-85.2705700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1060' visible='true' lat='35.0527300' lon='-85.2559000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1061' visible='true' lat='35.0663600' lon='-85.2459900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1062' visible='true' lat='35.0795000' lon='-85.2243200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1063' visible='true' lat='35.0810600' lon='-85.2124800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1064' visible='true' lat='35.0813700' lon='-85.2106200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1065' visible='true' lat='35.0346700' lon='-85.2718900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1066' visible='true' lat='35.0506500' lon='-85.2571400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1067' visible='true' lat='35.0495600' lon='-85.2577300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1068' visible='true' lat='35.0415700' lon='-85.2585400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1069' visible='true' lat='35.0321500' lon='-85.2963200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1070' visible='true' lat='35.0193800' lon='-85.2837200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1071' visible='true' lat='35.0189900' lon='-85.2826900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1072' visible='true' lat='35.0190900' lon='-85.2825700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1073' visible='true' lat='35.0204900' lon='-85.2865000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1074' visible='true' lat='35.0399800' lon='-85.3099900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1075' visible='true' lat='35.0378800' lon='-85.3111800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1076' visible='true' lat='35.0343900' lon='-85.3131100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1077' visible='true' lat='35.0327500' lon='-85.3141100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1078' visible='true' lat='35.0178900' lon='-85.3221800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1079' visible='true' lat='34.9916300' lon='-85.3310100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1080' visible='true' lat='35.0283200' lon='-85.3162400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1081' visible='true' lat='35.0534300' lon='-85.3095500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1082' visible='true' lat='35.0720300' lon='-85.2887100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1083' visible='true' lat='35.1129000' lon='-85.2634400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1084' visible='true' lat='35.1223900' lon='-85.2483500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1085' visible='true' lat='35.1289300' lon='-85.2407700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1086' visible='true' lat='35.0742800' lon='-85.2883000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1087' visible='true' lat='35.1352900' lon='-85.2464600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1088' visible='true' lat='35.0535700' lon='-85.3097500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1089' visible='true' lat='35.0611900' lon='-85.3036300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1090' visible='true' lat='35.1210600' lon='-85.2488600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1091' visible='true' lat='35.0757000' lon='-85.2882600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1092' visible='true' lat='35.0596300' lon='-85.2098900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1093' visible='true' lat='35.0551000' lon='-85.1972200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1094' visible='true' lat='35.0575900' lon='-85.1990000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1095' visible='true' lat='35.0607500' lon='-85.1972400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1096' visible='true' lat='35.0659900' lon='-85.3119000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1097' visible='true' lat='35.0379900' lon='-85.3075300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1098' visible='true' lat='35.0375400' lon='-85.3110400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1099' visible='true' lat='35.0361500' lon='-85.3071300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1100' visible='true' lat='35.0365900' lon='-85.3072700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1101' visible='true' lat='35.0501100' lon='-85.1536200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1102' visible='true' lat='35.0521000' lon='-85.1500300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1103' visible='true' lat='35.0566700' lon='-85.1407600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1104' visible='true' lat='35.0547500' lon='-85.1339400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1105' visible='true' lat='35.0567600' lon='-85.1405600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1106' visible='true' lat='35.0535700' lon='-85.1474400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1107' visible='true' lat='35.0503100' lon='-85.1538300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1108' visible='true' lat='35.0475100' lon='-85.1583300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1109' visible='true' lat='35.0445100' lon='-85.3050200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1110' visible='true' lat='35.0445300' lon='-85.3056400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1111' visible='true' lat='35.0178300' lon='-85.2058000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1112' visible='true' lat='35.0059000' lon='-85.2133900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1113' visible='true' lat='35.0473300' lon='-85.1583700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1114' visible='true' lat='35.0107500' lon='-85.2166600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1115' visible='true' lat='35.0430200' lon='-85.1573700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1116' visible='true' lat='34.9918200' lon='-85.3057600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1117' visible='true' lat='35.0308100' lon='-85.3088000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1118' visible='true' lat='35.0126600' lon='-85.3259500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1119' visible='true' lat='35.0302200' lon='-85.2430900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1120' visible='true' lat='35.0467500' lon='-85.2374000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1121' visible='true' lat='35.0641000' lon='-85.2408800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1122' visible='true' lat='35.0559500' lon='-85.2321300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1123' visible='true' lat='35.0325300' lon='-85.2419500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1124' visible='true' lat='35.0270100' lon='-85.2828300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1125' visible='true' lat='34.9898400' lon='-85.2873100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1126' visible='true' lat='35.0359700' lon='-85.3069100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1127' visible='true' lat='34.9953400' lon='-85.2842800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1128' visible='true' lat='35.0092200' lon='-85.2773900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1129' visible='true' lat='35.0165200' lon='-85.2731200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1130' visible='true' lat='35.0257200' lon='-85.2788400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1131' visible='true' lat='35.0288900' lon='-85.2877200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1132' visible='true' lat='35.0523100' lon='-85.2587600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1133' visible='true' lat='35.0468700' lon='-85.2351100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1134' visible='true' lat='35.0471000' lon='-85.2371500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1135' visible='true' lat='35.0462500' lon='-85.3103100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1136' visible='true' lat='35.0446000' lon='-85.3102500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1137' visible='true' lat='35.0520300' lon='-85.3108200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1138' visible='true' lat='35.0446400' lon='-85.3123100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1139' visible='true' lat='35.0447900' lon='-85.3113000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1140' visible='true' lat='35.0260300' lon='-85.2508600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1141' visible='true' lat='35.0482100' lon='-85.2418200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1142' visible='true' lat='35.0168800' lon='-85.2769800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1143' visible='true' lat='35.0490500' lon='-85.2769300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1144' visible='true' lat='35.0250300' lon='-85.2460500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1145' visible='true' lat='35.0488300' lon='-85.3095500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1146' visible='true' lat='35.0179900' lon='-85.2721600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1147' visible='true' lat='35.0385800' lon='-85.3075600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1148' visible='true' lat='35.0267100' lon='-85.2819700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1149' visible='true' lat='34.9878300' lon='-85.2883400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1150' visible='true' lat='35.0428800' lon='-85.3091000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1151' visible='true' lat='35.0540700' lon='-85.3114400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1152' visible='true' lat='35.0540300' lon='-85.3114700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1153' visible='true' lat='35.0407600' lon='-85.2981000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1154' visible='true' lat='35.0930300' lon='-85.2562500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1155' visible='true' lat='35.0472100' lon='-85.2779800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1156' visible='true' lat='35.0471600' lon='-85.3126200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1157' visible='true' lat='35.0274000' lon='-85.1905800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1158' visible='true' lat='35.0481200' lon='-85.3095500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1159' visible='true' lat='35.0174500' lon='-85.3216800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1160' visible='true' lat='35.0161000' lon='-85.3230100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1161' visible='true' lat='35.0411500' lon='-85.2719600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1162' visible='true' lat='35.0426100' lon='-85.2711800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1163' visible='true' lat='35.0493200' lon='-85.3095000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1164' visible='true' lat='35.0241600' lon='-85.2969600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1165' visible='true' lat='35.0416200' lon='-85.2583200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1166' visible='true' lat='35.0547000' lon='-85.3096000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1167' visible='true' lat='35.0618100' lon='-85.3051000'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1168' visible='true' lat='35.0521800' lon='-85.3105500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1169' visible='true' lat='35.0239800' lon='-85.1496200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1170' visible='true' lat='35.0595100' lon='-85.2118400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1171' visible='true' lat='35.0472900' lon='-85.2378500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1172' visible='true' lat='35.0624900' lon='-85.3049400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1173' visible='true' lat='35.0542800' lon='-85.2407700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1174' visible='true' lat='35.0481300' lon='-85.2430100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1175' visible='true' lat='35.0322200' lon='-85.1946500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1176' visible='true' lat='35.0258100' lon='-85.1968200'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1177' visible='true' lat='35.0238500' lon='-85.1978600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1178' visible='true' lat='35.0225400' lon='-85.1985400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1179' visible='true' lat='35.0202800' lon='-85.1997300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1180' visible='true' lat='35.0192600' lon='-85.1973300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1181' visible='true' lat='35.0206000' lon='-85.1964700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1182' visible='true' lat='35.0216000' lon='-85.1988700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1183' visible='true' lat='35.0229200' lon='-85.1982400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1184' visible='true' lat='35.0323000' lon='-85.1945500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1185' visible='true' lat='35.0369200' lon='-85.1907800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1186' visible='true' lat='35.0107100' lon='-85.3277900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1187' visible='true' lat='35.0143100' lon='-85.3250600'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1188' visible='true' lat='35.0658500' lon='-85.3101800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1189' visible='true' lat='35.0666700' lon='-85.3119800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1190' visible='true' lat='35.0675800' lon='-85.3155300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1191' visible='true' lat='35.0686500' lon='-85.3152800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1192' visible='true' lat='35.0684800' lon='-85.3131400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1193' visible='true' lat='35.0684500' lon='-85.3119300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1194' visible='true' lat='35.0658600' lon='-85.3132300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1195' visible='true' lat='35.0549400' lon='-85.3098500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1196' visible='true' lat='34.9841000' lon='-85.2867900'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1197' visible='true' lat='34.9855100' lon='-85.2871100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1198' visible='true' lat='34.9863700' lon='-85.2876100'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1199' visible='true' lat='34.9876000' lon='-85.2884500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1200' visible='true' lat='35.0383200' lon='-85.1957400'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1201' visible='true' lat='34.9847300' lon='-85.2881500'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1202' visible='true' lat='35.0563600' lon='-85.2684300'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1203' visible='true' lat='35.0084200' lon='-85.2136800'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+  <node id='-1204' visible='true' lat='35.0420000' lon='-85.3086700'>
+    <tag k='created_by' v='GPSBabel-1.6.0'/>
+  </node>
+</osm>

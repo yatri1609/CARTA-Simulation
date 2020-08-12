@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2020-02-27 14:40:57.277930 by edgesInDistricts.py UNKNOWN
+  options: -n final.net.xml -t polytrial.add.xml -o taz_district.taz.xml
+-->
+<tazs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/taz_file.xsd">
+</tazs>
